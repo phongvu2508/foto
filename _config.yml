@@ -9,7 +9,7 @@ google_analytics: ""
 title: "phongvufoto"
 subtitle: "See the world through my eyes!"
 author: "Phong Vu"
-bio: "Just a software developer with passion with photography."
+bio: "Just a <a href="https://phongvu.dev">software developer</a> with passion for photography."
 publicise: ""
 web_design: "AJ"
 social_urls:
@@ -18,3 +18,4 @@ social_urls:
   instagram: "https://www.instagram.com/phongvufoto"
   linkedin: "https://in.linkedin.com/in/phong-vu-software-developer"
   github: "https://www.github.com/phongvu2508"
+  profile: "https://phongvu.dev"
