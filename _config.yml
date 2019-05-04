@@ -1,21 +1,20 @@
 # Base configs
-baseurl: "http://photography.ramswaroop.me"
+baseurl: "http://photography.phongvu.dev"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Ram Patra"
+title: "phongvufoto"
 subtitle: "See the world through my eyes!"
-author: "Ram Patra"
-bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
-publicise: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+author: "Phong Vu"
+bio: "Just a software developer with passion with photography."
+publicise: ""
 web_design: "AJ"
 social_urls:
-  facebook: "https://www.facebook.com/ramswaroop"
-  twitter: "https://www.twitter.com/ramswarooppatra"
-  instagram: "https://www.instagram.com/ramswarooppatra"
-  dribbble: "https://dribbble.com/ramswaroop"
-  linkedin: "https://in.linkedin.com/in/ramswarooppatra"
-  github: "https://www.github.com/ramswaroop"
+  facebook: "https://www.facebook.com/phong.vu.758"
+  twitter: "https://www.twitter.com/Phong_Vu"
+  instagram: "https://www.instagram.com/phongvufoto"
+  linkedin: "https://in.linkedin.com/in/phong-vu-software-developer"
+  github: "https://www.github.com/phongvu2508"
   
