@@ -1,5 +1,6 @@
 # Base configs
 baseurl: "http://photography.phongvu.dev"
+
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -17,4 +18,3 @@ social_urls:
   instagram: "https://www.instagram.com/phongvufoto"
   linkedin: "https://in.linkedin.com/in/phong-vu-software-developer"
   github: "https://www.github.com/phongvu2508"
-  
