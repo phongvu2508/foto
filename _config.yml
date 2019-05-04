@@ -1,5 +1,6 @@
 # Base configs
 baseurl: "https://photography.phongvu.dev"
+otherurl: "https://filmneverdie.phongvu.dev"
 
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
